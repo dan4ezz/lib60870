@@ -1,3 +1,4 @@
+add_subdirectory(beremiz_test_cs104_client)
 add_subdirectory(cs101_master_balanced)
 add_subdirectory(cs101_master_unbalanced)
 add_subdirectory(cs101_slave)
